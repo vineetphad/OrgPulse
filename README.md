@@ -48,6 +48,7 @@ Organizational Reports
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-Objective
+```
 
+## Objective
 The goal of OrgPulse is to transform organizational reports into structured, actionable insights that can support management and department-level decision making.
